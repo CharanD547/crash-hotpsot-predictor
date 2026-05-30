@@ -1,0 +1,11 @@
+rank,county,fatalities_2020,fatalities_2021,fatalities_2022,fatalities_2023,fatalities_2024,percent_total_2020,percent_total_2021,percent_total_2022,percent_total_2023,percent_total_2024
+2,Henrico County,29,39.0,34.0,29.0,46.0,3,4.0,3.0,3.0,5.0
+3,Chesterfield County,34,27.0,35.0,27.0,32.0,4,3.0,3.0,3.0,3.0
+4,Prince William County,18,32.0,30.0,27.0,30.0,2,3.0,3.0,3.0,3.0
+5,Virginia Beach City,26,35.0,30.0,37.0,24.0,3,4.0,3.0,4.0,3.0
+6,Spotsylvania County,13,15.0,23.0,23.0,21.0,2,2.0,2.0,3.0,2.0
+7,Norfolk City,25,28.0,23.0,15.0,20.0,3,3.0,2.0,2.0,2.0
+8,Chesapeake City,12,23.0,14.0,17.0,19.0,1,2.0,1.0,2.0,2.0
+9,Newport News City,22,16.0,16.0,12.0,19.0,3,2.0,2.0,1.0,2.0
+10,Augusta County,14,18.0,24.0,14.0,18.0,2,2.0,2.0,2.0,2.0
+Sub Total 1.* ,Top Ten Counties                    ,258,295.0,315.0,282.0,286.0,30,30.0,31.0,31.0,31.0
